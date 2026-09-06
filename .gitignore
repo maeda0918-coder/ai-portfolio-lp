@@ -1,0 +1,23 @@
+# 公開しないファイル（CLAUDE.md の GitHub ルールに対応）
+
+# LP制作用の元情報・設計図（個人メモのため公開しない）
+profile.md
+lp-plan.md
+
+# 作業用アーカイブ
+_archive/
+
+# Claude Code のローカル設定（この環境専用のため公開しない）
+.claude/settings.local.json
+
+# 秘密情報
+.env
+.env.local
+*.key
+*.pem
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
