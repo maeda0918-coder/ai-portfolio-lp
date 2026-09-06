@@ -2,7 +2,7 @@
 
 mae のAI活用ポートフォリオ。プロフィール、AI活用テーマ、作ったもの、これから作りたいものをまとめた1枚のLPです。
 
-**公開URL**：（Vercelで公開後にここへ追記）
+**公開URL**：https://ai-portfolio-lp-mae-0e16.vercel.app
 
 ## 構成
 
