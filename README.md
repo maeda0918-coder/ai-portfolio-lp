@@ -27,7 +27,7 @@ mae のAI活用ポートフォリオ。プロフィール、AI活用テーマ、
 ビルド不要です。リポジトリを取得して `index.html` をブラウザで開いてください。
 
 ```bash
-git clone https://github.com/YOUR-NAME/ai-portfolio-lp.git
+git clone https://github.com/maeda0918-coder/ai-portfolio-lp.git
 cd ai-portfolio-lp
 open index.html
 ```
