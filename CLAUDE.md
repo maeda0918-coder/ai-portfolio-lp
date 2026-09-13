@@ -1,9 +1,7 @@
 # AI活用ポートフォリオLP 制作ルール
 
-> コピーして `ccc-workspace/1_projects/ai-portfolio-lp/CLAUDE.md` として配置する。`プロジェクト名` だけ自分用に書き換える。
-
 ## プロジェクト
-- プロジェクト名：〇〇のAI活用ポートフォリオLP
+- プロジェクト名：maeのAI活用ポートフォリオLP
 - フォルダ名：ai-portfolio-lp
 - 公開方針：GitHub Public / Vercel Public
 
